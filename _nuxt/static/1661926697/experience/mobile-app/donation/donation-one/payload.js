@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/experience/mobile-app/donation/donation-one", {data:[{_img:{}}],fetch:{},mutations:[]});

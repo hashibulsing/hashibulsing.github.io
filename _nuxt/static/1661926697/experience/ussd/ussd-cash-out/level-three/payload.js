@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/experience/ussd/ussd-cash-out/level-three", {data:[{_img:{}}],fetch:{},mutations:[["setMessage","*167# হোম পেজ"]]});

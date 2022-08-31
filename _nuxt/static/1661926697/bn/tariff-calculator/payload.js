@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/tariff-calculator", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

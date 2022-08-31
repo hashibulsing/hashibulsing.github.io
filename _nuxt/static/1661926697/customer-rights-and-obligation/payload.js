@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/customer-rights-and-obligation", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/experience/mobile-app/merchant-pay/merchant-pay-three", {data:[{_img:{}}],fetch:{},mutations:[]});

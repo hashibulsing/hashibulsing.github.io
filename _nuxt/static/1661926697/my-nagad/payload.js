@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/my-nagad", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

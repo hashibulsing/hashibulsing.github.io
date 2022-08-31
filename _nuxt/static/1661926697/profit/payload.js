@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/profit", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

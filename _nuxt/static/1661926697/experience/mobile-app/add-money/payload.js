@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/experience/mobile-app/add-money", {data:[{_img:{}}],fetch:{},mutations:[]});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/experience/mobile-app/send-money", {data:[{_img:{}}],fetch:{},mutations:[]});

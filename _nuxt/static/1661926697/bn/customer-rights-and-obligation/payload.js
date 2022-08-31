@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/customer-rights-and-obligation", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

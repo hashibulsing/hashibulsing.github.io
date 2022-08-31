@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/experience/ussd/ussd-emi/level-two", {data:[{_img:{}}],fetch:{},mutations:[["setMessage","*167# হোম পেজ"]]});

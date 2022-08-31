@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/experience/ussd/ussd-my-nagad/LevelTwo", {data:[{_img:{}}],fetch:{},mutations:[["setMessage","*167# হোম পেজ"]]});

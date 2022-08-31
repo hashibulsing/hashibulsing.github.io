@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/experience/mobile-app/emi-collection/emi-collection-three", {data:[{_img:{}}],fetch:{},mutations:[]});

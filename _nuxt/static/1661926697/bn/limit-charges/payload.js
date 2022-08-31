@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/limit-charges", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

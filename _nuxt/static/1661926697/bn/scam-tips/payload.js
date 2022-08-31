@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/scam-tips", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

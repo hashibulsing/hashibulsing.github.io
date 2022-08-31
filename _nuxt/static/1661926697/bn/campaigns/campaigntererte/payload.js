@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/campaigns/campaigntererte", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

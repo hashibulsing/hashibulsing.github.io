@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn", (function(a,b,c,d){return {data:[{_img:{}}],fetch:{},mutations:[[a,b],[c,d],[a,b],[c,d]]}}("setPageTitle","নগদ","setCurrentPageTitle","home")));

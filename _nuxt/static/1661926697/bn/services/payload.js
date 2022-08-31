@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bn/services", (function(a){return {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],[a,"home"],[a,"এক্সপেরিয়েন্স"]]}}("setCurrentPageTitle")));
