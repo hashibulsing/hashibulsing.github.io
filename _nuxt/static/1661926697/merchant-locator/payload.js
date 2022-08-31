@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/merchant-locator", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

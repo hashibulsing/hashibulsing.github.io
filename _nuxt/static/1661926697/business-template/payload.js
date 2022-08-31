@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/business-template", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

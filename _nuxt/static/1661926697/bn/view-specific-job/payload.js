@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/bn/view-specific-job", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

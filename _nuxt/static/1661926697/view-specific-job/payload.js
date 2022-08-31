@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/view-specific-job", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","Nagad"],["setCurrentPageTitle","home"]]});

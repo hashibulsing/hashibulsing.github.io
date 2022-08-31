@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/bn/business", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

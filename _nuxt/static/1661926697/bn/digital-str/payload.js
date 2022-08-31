@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/bn/digital-str", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});

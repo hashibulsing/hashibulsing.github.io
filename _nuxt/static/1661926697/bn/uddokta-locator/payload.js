@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/bn/uddokta-locator", {data:[{_img:{}}],fetch:{},mutations:[["setPageTitle","নগদ"],["setCurrentPageTitle","home"]]});
